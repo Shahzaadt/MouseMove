@@ -1,0 +1,15 @@
+<version>
+  <major>3</major>
+  <minor>4</minor>
+  <build>0</build>
+  <released_date>09-Oct-2015</released_date>
+  <advertised_date>23-Oct-2015</advertised_date>
+  <features>
+    <feature>Import function for scripts.</feature>
+    <feature>Start Move Mouse from the System Tray menu.</feature>
+  </features>
+  <fixes>
+    <fix>Process {0} exception when multiple instances running.</fix>
+    <fix>Distorted System Tray icons.</fix>
+  </fixes>
+</version>
